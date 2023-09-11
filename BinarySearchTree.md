@@ -14,11 +14,12 @@
 8. Aşama => 4 sayisi Root' tan kucuk oldugundan soluna yazilir. 3' ten de buyuk oldugundan 3' ün sagina yazilir.
 9. Aşama => 2 sayisi Root' tan kucuk oldugundan soluna yazilir. 3' ten de kucuk oldugundan 3' ün soluna yazilir.
 
-          5
-         / \
-       1     7
-      / \   / \
-     0   3 6   8
-        /   \   \
-       2     4   9
+              5
+             / \
+           1     7
+          / \   / \
+         0   3 6   8
+            / \     \
+            2  4     9
+          
      
